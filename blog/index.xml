@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Dylan Pindur</title>
+    <link>https://dpindur.github.io/blog/</link>
+    <description>Recent content in Blogs on Dylan Pindur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jul 2018 08:10:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://dpindur.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teamcity Agent XML-RPC RCE</title>
+      <link>https://dpindur.github.io/blog/teamcity-agent-xml-rpc-rce/</link>
+      <pubDate>Thu, 26 Jul 2018 08:10:21 +0000</pubDate>
+      
+      <guid>https://dpindur.github.io/blog/teamcity-agent-xml-rpc-rce/</guid>
+      <description>For those who haven&amp;rsquo;t had the pleasure, TeamCity is a delightful Continuous Integration tool from JetBrains. TeamCity is commonly deployed to multiple servers, with one TeamCity server responsible for managing build configurations and multiple Build Agent servers responsible for running the builds.
+The Build Agents can be configured to receive their build commands in either a unidirectional or bidirectional mode. In unidirectional mode the Build Agent polls the server for new build commands and then runs them.</description>
+    </item>
+    
+  </channel>
+</rss>
